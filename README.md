@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nethupama Shavinda</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+I'm+Nethupama+Shavinda!;" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">IT Undergraduate @University of Moratuwa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shavinda12&label=Profile%20views&color=0e75b6&style=flat" alt="shavinda12" /> </p>
+<br/>
+  <div align="left" >
+    <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
+    <p>🌱 I’m currently learning <strong>React.js</strong></p>
+    <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
+    <p>📫 How to reach me: <a href="https://www.linkedin.com/in/nethupama-shavinda-352a7230a/">LinkedIn</a></p>
+    <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
+  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shavinda12" alt="shavinda12" /></a> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Web and Mobile app development projects**
-
-- 📫 How to reach me **linkedin**
-
-- ⚡ Fun fact **I love sharing interesting posts on Facebook**
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
