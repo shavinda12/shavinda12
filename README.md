@@ -6,9 +6,8 @@
 <h3 align="center">IT Undergraduate @University of Moratuwa</h3>
 
 <br/>
-  <div align="left" >
+  <div align="center" >
     <p>👀 I’m interested in Mobile and Web App Full Stack Development </p>
-    <p>🌱 I’m currently learning <strong>React.js</strong></p>
     <p>👯 I’m looking to collaborate as a  <strong>Full Stack Developer</strong></p>
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/nethupama-shavinda-352a7230a/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
