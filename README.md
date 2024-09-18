@@ -7,9 +7,9 @@
 
 <br/>
   <div align="left" >
-    <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
+    <p>👀 I’m interested in Mobile and Web App Full Stack Development </p>
     <p>🌱 I’m currently learning <strong>React.js</strong></p>
-    <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
+    <p>👯 I’m looking to collaborate as a  <strong>Full Stack Developer</strong></p>
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/nethupama-shavinda-352a7230a/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
   </div>
