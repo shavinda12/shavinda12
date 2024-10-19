@@ -30,6 +30,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shavinda12&" alt="shavinda12" /></p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shavinda12" alt="shavinda12" /></a> </p>
 <hr/>
 
 <h3 align="center">
